@@ -1,0 +1,16 @@
+{
+  "name": "simfoni_test_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "20.1.2",
+    "@cypress/browserify-preprocessor": "3.0.2",
+    "cypress": "13.14.2"
+  }
+}
